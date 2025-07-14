@@ -6,7 +6,7 @@
 
 ## Data Structures
 
-### [Binarey Search Tree (BST)](./tree/bst.go)
+### [Binary Search Tree (BST)](./bst/bst.go)
 
 
 ## Algorithms
