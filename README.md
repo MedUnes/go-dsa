@@ -7,7 +7,7 @@
 ## Data Structures
 
 ### [Binary Search Tree (BST)](./bst/bst.go)
-
+### [LRU Cache](https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU)
 
 ## Algorithms
 
